@@ -13,13 +13,17 @@ Navigate to the project directory:
 
 bash
 Copy code
+
  ´´´cd ejs-tags-demo
-Install dependencies:
+ 
+# Install dependencies:
 
 bash
 Copy code
+
  ´´´npm install
-Run the application:
+ 
+# Run the application:
 
 bash
 Copy code
